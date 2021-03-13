@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naman.
-- 👀 I’m interested in Coding. I likw to take new challenges every time.
+- 👀 I’m interested in Coding. I like to take new challenges every time.
 - 🌱 I’m currently pursuing my b.tech from NITUK.
 - 📫 How to reach me- contact no. 9694467910
 

@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Naman.
-- 👀 I’m interested in Coding. I like to take new challenges every time.
-- 🌱 I’m currently pursuing my b.tech from NITUK.
-- 📫 How to reach me- contact no. 9694467910
+- 👋 Hi, I am Naman.
+- 👀 I am pretty interested in new challeges where I can push my limits.
+- 🌱 I am currently working as a Software Engineer in AuthBridge Research Services Private Limited.
 
 <!---
 Naman1199github/Naman1199github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
